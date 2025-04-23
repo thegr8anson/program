@@ -1,0 +1,64 @@
+# ==== Python ====
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+*.pyc
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+*.env
+
+# Python notebooks
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# ==== Jupyter Notebooks ====
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ==== C/C++ ====
+*.out
+*.o
+*.obj
+*.exe
+*.dll
+*.a
+*.so
+*.dylib
+
+# Build folders
+/build/
+bin/
+debug/
+release/
+
+# Clang / GCC / VS specific
+*.sdf
+*.suo
+*.ncb
+*.pdb
+*.idb
+
+# ==== OS/Tooling ====
+.DS_Store
+Thumbs.db

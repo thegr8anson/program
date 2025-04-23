@@ -1,0 +1,5 @@
+name = input("請輸入名字")
+print(name +" 你好!")
+number = int(input("請輸入一個整數"))
+print(number/42)
+print(number**2)
