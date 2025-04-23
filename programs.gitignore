@@ -62,3 +62,6 @@ release/
 # ==== OS/Tooling ====
 .DS_Store
 Thumbs.db
+
+# ==== Others ====
+*.pdf
